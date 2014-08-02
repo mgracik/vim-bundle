@@ -28,3 +28,6 @@
 [submodule "vim-sensible"]
 	path = vim-sensible
 	url = https://github.com/tpope/vim-sensible.git
+[submodule "vim-clojure-static"]
+	path = vim-clojure-static
+	url = https://github.com/guns/vim-clojure-static
