@@ -43,3 +43,6 @@
 [submodule "vim-dispatch"]
 	path = vim-dispatch
 	url = https://github.com/tpope/vim-dispatch.git
+[submodule "vim-classpath"]
+	path = vim-classpath
+	url = https://github.com/tpope/vim-classpath.git
