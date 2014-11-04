@@ -34,3 +34,12 @@
 [submodule "vim-fireplace"]
 	path = vim-fireplace
 	url = https://github.com/tpope/vim-fireplace.git
+[submodule "vim-leiningen"]
+	path = vim-leiningen
+	url = https://github.com/tpope/vim-leiningen.git
+[submodule "vim-projectionist"]
+	path = vim-projectionist
+	url = https://github.com/tpope/vim-projectionist.git
+[submodule "vim-dispatch"]
+	path = vim-dispatch
+	url = https://github.com/tpope/vim-dispatch.git
