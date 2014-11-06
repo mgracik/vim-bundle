@@ -46,3 +46,6 @@
 [submodule "vim-classpath"]
 	path = vim-classpath
 	url = https://github.com/tpope/vim-classpath.git
+[submodule "vim-niji"]
+	path = vim-niji
+	url = https://github.com/amdt/vim-niji.git
