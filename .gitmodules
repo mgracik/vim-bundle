@@ -49,3 +49,6 @@
 [submodule "vim-niji"]
 	path = vim-niji
 	url = https://github.com/amdt/vim-niji.git
+[submodule "vim-tomorrow-theme"]
+	path = vim-tomorrow-theme
+	url = https://github.com/chriskempson/vim-tomorrow-theme.git
